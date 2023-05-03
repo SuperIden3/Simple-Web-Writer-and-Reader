@@ -1,5 +1,5 @@
 {
-  "name": "writing-and-reading-chunks-with-transformstream",
+  "name": "simple-web-writer-and-reader",
   "version": "1.0.0",
   "description": "A simple project in which takes in an input, writes that input to the document, then can read that chunk.",
   "main": "index.js",
@@ -27,6 +27,7 @@
     "serve": "^11.2.0"
   },
   "dependencies": {
+    "node": "^20.0.0",
     "ts-ignore": "0.0.3"
   }
 }
